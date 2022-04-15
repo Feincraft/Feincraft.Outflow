@@ -2,6 +2,7 @@
 **Feincraft Outflow** is an AddIn for **Microsoft Outlook** that allows processing email messages using a **Power Automate** flow.
 
 ![Outflow in action](https://github.com/Feincraft/Feincraft.Outflow/blob/master/Outflow%20O60.gif?raw=true)
+
 Out of the box, Outflow comes with a flow that can summarize long emails into 4 sentences using Azure Language Services. However it is possible to configure Outflow to process emails using any other flow, as long as it is built in a compatible way (read "Extend Outflow" for more information).
 
 
@@ -70,3 +71,4 @@ Alternatively you can just modify the flow provided.
 
 **Note:** Currently Outflow will only display plain text. Future version will add the ability to render HTML as well.
 
+![Logo](https://github.com/Feincraft/Feincraft.Outflow/blob/master/Readme/PaLoadingV4.gif?raw=true) 
