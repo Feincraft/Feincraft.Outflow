@@ -18,7 +18,9 @@ Original announcement: https://www.linkedin.com/feed/update/urn:li:activity:6919
 Create a Language Service from Azure Portal 
 
 ![](https://github.com/Feincraft/Feincraft.Outflow/blob/master/Readme/AzureCreate.png?raw=true)
+
 Take note of the endpoint and API key
+
 ![](https://github.com/Feincraft/Feincraft.Outflow/blob/master/Readme/GetCredentials.png?raw=true)
 
 This is required if you want to use the text summary flow with Outflow.
@@ -29,11 +31,13 @@ Import the flow (SummarizeEmails.zip) from the release package or download it fr
 ![Flow](https://github.com/Feincraft/Feincraft.Outflow/blob/master/Readme/firefox_rK5Q9eLIJU.png?raw=true)
 
 Enter the endpoint URL and API key from Azure into both HTTP actions 
+
 ![FlowEdit](https://github.com/Feincraft/Feincraft.Outflow/blob/master/Readme/FlowEdit.png?raw=true)
 
 ![FlowEdit](https://github.com/Feincraft/Feincraft.Outflow/blob/master/Readme/GetJob.png?raw=true)
 
 Save the flow and copy its URL
+
 ![Get Flow URL](https://github.com/Feincraft/Feincraft.Outflow/blob/master/Readme/GetUrl.png?raw=true)
 
 This is required if you want to use the text summary flow with Outflow.
@@ -45,6 +49,7 @@ This is required if you want to use the text summary flow with Outflow.
 
 ## Configure AddIn
 Open Outflow, click on Settings and paste the flow URL
+
 ![Configure Outflow](https://github.com/Feincraft/Feincraft.Outflow/blob/master/Readme/ConfigOutflow.gif?raw=true)
 
 # Extend Outflow
