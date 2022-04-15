@@ -44,7 +44,7 @@ Save the flow and copy its URL
 This is required if you want to use the text summary flow with Outflow.
 
 ## Setup AddIn
-- Downlaod and extract the package 
+- Download and extract the archive 
 - Run "setup.exe" 
 - Restart Outlook
 
