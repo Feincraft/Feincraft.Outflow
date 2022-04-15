@@ -273,6 +273,24 @@
   <ItemGroup>
     <None Include="Resources\loading-waiting100.gif" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PaLoading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PaLoading1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PaLoadingV2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PaLoadingV21.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PaLoadingV3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PaLoadingV4.gif" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

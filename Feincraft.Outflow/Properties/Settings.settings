@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="FlowAddress" Type="System.String" Scope="User">
-      <Value Profile="(Default)">[INSERT YOUR FLOW URL]</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="AutoRefresh" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>

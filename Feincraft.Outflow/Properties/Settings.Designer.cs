@@ -25,7 +25,7 @@ namespace Feincraft.Outflow.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("[INSERT YOUR FLOW URL]")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string FlowAddress {
             get {
                 return ((string)(this["FlowAddress"]));
